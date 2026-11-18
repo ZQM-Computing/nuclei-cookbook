@@ -35,6 +35,8 @@ Security practitioners who run template-based checks against their own assets.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-scan` | A first bounded scan against an authorized target |
